@@ -1,0 +1,18 @@
+__pycache__
+.idea
+environment.yml
+.vscode/
+build/
+out/
+
+# csv files
+*.csv
+/me_data/
+*.pdf
+
+# Mac files
+.DS_Store
+
+# Testing scripts I don't want in version control
+deleteme*
+report*
